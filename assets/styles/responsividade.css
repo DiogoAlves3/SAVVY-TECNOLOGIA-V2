@@ -1,0 +1,470 @@
+@media (max-width: 480px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .sectionparaback{
+            background: linear-gradient(196deg, #090808 43.13%, #00838B 99.27%);
+            height: 500px;
+            flex-shrink: 0;        
+    }
+
+    .sectionparaback header .contentsheader .contentimg{ 
+        text-align: center;
+        margin: 0 auto;
+        position: relative;
+        top: 0;
+    }
+
+    .sectionparaback header .contentsheader .contentimg img{
+        height: 200px;
+    }
+
+    .sectionparaback .conteudos{
+        position: relative;
+        bottom: 2rem;
+    }
+
+    .sectionparaback h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(5px);
+        margin-bottom: 20px;
+    }
+
+    .sectionparaback p{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Exa";
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        text-transform: capitalize;
+    }
+
+    .sectionparaback .conteudos .imgdoheader{
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .sectionparaback .conteudos .imgdoheader img{
+        height: 241.848px;
+    }
+
+    .backblack{
+        background-color: black;
+        height: 1099vh;
+    }
+
+    .backblack .conteudossobre{
+        position: relative;
+        top: 10rem;
+        background: linear-gradient(0deg, #00FFF0 0.06%, #43A29C 34.64%, #000 98.05%);
+        height: 600px;
+    }
+
+    .backblack .conteudossobre h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 5px;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    .backblack .conteudossobre p{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Deca";
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 3px;
+        text-transform: capitalize;
+        margin-top: 20px;
+    }
+
+    .backblack .conteudossobre p span{
+        background: linear-gradient(180deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .backblack .conteudossobre .botao{
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .backblack .conteudossobre .botao button{
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        padding: 10px;
+        color: black;
+        font-weight: bolder;
+        border-radius: 10px;
+        cursor: pointer;
+        border: none;
+    }
+
+    .nossamissao {
+        position: relative;
+        top: 12rem;
+    }
+
+    .nossamissao .nossamissaoitens h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1.995px;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    .nossamissao .nossamissaoitens p{
+        color: #FFF;
+        margin-top: 20px;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1px;
+        text-transform: capitalize;
+    }
+
+    .itensmissao .geral{
+        margin-top: 40px;
+    }
+
+    .itensmissao .geral .itengeral{
+        display: flex;
+        border: 1px solid #00fff0;
+        padding: 5px;
+    }
+
+    .itensmissao .geral h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .itensmissao .geral p{
+        color: #FFF;
+        margin-top: 10px;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 0.75px;
+        text-transform: capitalize;
+    }
+
+    .imagem-alterada{
+        position: relative;
+        top: 2rem;
+        left: 0.88rem;
+    }
+
+    .nossosservios{
+        position: relative;
+        top: 18rem;
+    }
+
+    .nossosservios h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1.995px;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    .nossosservios p{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 19.952px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        margin-top: 20px;
+    }
+
+    .nossosservios .color{
+        color: #00FFF0;
+    }
+
+    .nossosservios p span{
+        color: #00FFF0;
+    }
+
+    .nossosservios .servicositens{
+        margin-top: 50px;
+    }
+
+    .nossosservios .servicositens h2{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1.6px;
+        text-transform: capitalize;
+    }
+
+    .nossosservios .servicositens li{
+        border: 1px solid #00fff0;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    .nossosservios .img-servicos{
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .avaliacao{
+        position: relative;
+        top: 25rem;
+    }
+
+    .avaliacao h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    .avaliacao .pessoas .imagem-pessoas{
+        text-align: center;
+        margin-top: 70px;
+    }
+
+    .avaliacao .pessoas h3{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1.995px;
+        text-transform: capitalize;
+    }
+
+    .avaliacao .pessoas .stars{
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .avaliacao .pessoas p{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: bold;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        margin-top: 10px;
+    }
+
+    .redessociais{
+        position: relative;
+        top: 30rem;
+    }
+
+    .redessociais h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1.995px;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    .redessociais .imagemredes{
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .redessociais .imagemredes a{
+        color: #FFF;
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-size: 39.904px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        text-transform: capitalize;
+        text-decoration: none;
+    }
+
+    .redessociais .imagemredes a:hover{
+        color: #00FFF0;
+    }
+
+    footer{
+        position: relative;
+        top: 40rem;
+    }
+
+    footer h1{
+        text-align: center;
+        font-family: "Lexend Zetta";
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+        letter-spacing: 1px;
+        text-decoration-line: underline;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        backdrop-filter: blur(4.988048076629639px);
+    }
+
+    
+    form{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 50px;
+        border-radius: 5px;
+        margin-top: 40px;
+        border: 1px solid #00FFF0;
+    }
+
+    form h3{
+        color: white;
+        text-align: center;
+    }
+    
+    form textarea{
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    form label{
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+    }
+    
+    form label input{
+        height: 5vh;
+        padding: 5px;
+        font-weight: bold;
+        border-radius: 5px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    
+    form button{
+        background: linear-gradient(90deg, #00FFF0 0%, #FFF 100%);
+        padding: 10px;
+        color: black;
+        font-weight: bolder;
+        border-radius: 10px;
+        cursor: pointer;
+        border: none;
+    }
+    
+    .contatoss .contatoinfo form button:hover{
+        opacity: 0.5;
+        transition: linear 1s;
+    }
+
+    .imagemfinalfot{
+        position: relative;
+        top: 40rem;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hidden{
+        opacity: 0;
+        transition: all 2s;
+        transform: translateX(-100%);
+    }
+    
+    .show{
+        opacity: 1;
+        transform: translateX(0);
+    }
+    
+}
